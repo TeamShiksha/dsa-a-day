@@ -8,4 +8,4 @@ We do DSA Problems every weekday in the Team.Shiksha discord.
 18 June 2025 : https://leetcode.com/problems/house-robber/description/  
 19 June 2025 : https://leetcode.com/problems/house-robber-ii/description/  
 20 June 2025 : https://leetcode.com/problems/number-of-matching-subsequences/
-24 June 2025 : https://leetcode.com/problems/group-anagrams/description/  
+23 June 2025 : https://leetcode.com/problems/group-anagrams/description/  
