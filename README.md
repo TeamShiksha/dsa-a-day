@@ -11,4 +11,5 @@ We do DSA Problems every weekday in the Team.Shiksha discord.
 
 23 June 2025 : https://leetcode.com/problems/group-anagrams/description/  
 24 June 2025 : https://leetcode.com/problems/combination-sum/description/  
-25 June 2025 : https://leetcode.com/problems/majority-element/description/
+25 June 2025 : https://leetcode.com/problems/majority-element/description/  
+26 June 2025 : https://leetcode.com/problems/find-the-town-judge/description/
