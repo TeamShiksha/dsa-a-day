@@ -16,4 +16,5 @@ We do DSA Problems every weekday in the Team.Shiksha discord.
 27 June 2025 : https://leetcode.com/problems/count-special-triplets/description/  
 30 June 2025 : https://leetcode.com/problems/majority-element-ii/description/  
 1 July 2025 : https://leetcode.com/problems/longest-harmonious-subsequence/description/  
-2 July 2025 : https://leetcode.com/problems/container-with-most-water/description/
+2 July 2025 : https://leetcode.com/problems/container-with-most-water/description/  
+3 July 2025 : https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/
