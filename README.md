@@ -18,4 +18,6 @@ We do DSA Problems every weekday in the Team.Shiksha discord.
 1 July 2025 : https://leetcode.com/problems/longest-harmonious-subsequence/description/  
 2 July 2025 : https://leetcode.com/problems/container-with-most-water/description/  
 3 July 2025 : https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/  
-4 July 2025 : 1. https://leetcode.com/problems/valid-palindrome-ii/description/ 2. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+4 July 2025 : 1. https://leetcode.com/problems/valid-palindrome-ii/description/ 2. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/  
+
+7 July 2025 : https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
