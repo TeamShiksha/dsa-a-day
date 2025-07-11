@@ -25,3 +25,5 @@ We do DSA Problems every weekday in the Team.Shiksha discord.
 9 July 2025 : https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/  
 10 July 2025 : https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/   
 11 July 2025 : https://leetcode.com/problems/longest-repeating-character-replacement/description/
+
+14 July 2025 : 1. https://leetcode.com/problems/car-fleet/description/ 2. https://leetcode.com/problems/bulb-switcher/description/
