@@ -30,3 +30,4 @@ We do DSA Problems every weekday in the Team.Shiksha discord.
 15 July 2025 : 1. https://leetcode.com/problems/valid-anagram/description/ 2.https://leetcode.com/problems/contains-duplicate/description/       
 16 July 2025 : https://leetcode.com/problems/top-k-frequent-elements/description/    
 17 July 2025 : https://neetcode.io/problems/string-encode-and-decode?list=neetcode150
+18 July 2025 : https://leetcode.com/problems/product-of-array-except-self/
