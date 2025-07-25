@@ -36,3 +36,4 @@ We do DSA Problems every weekday in the Team.Shiksha discord.
 23 July 2025 : https://leetcode.com/problems/3sum/description/   
 24 July 2025 : 1. https://leetcode.com/problems/valid-parentheses/description/ 2. https://leetcode.com/problems/min-stack/description/      
 25 July 2025 : https://leetcode.com/problems/evaluate-reverse-polish-notation/description/   
+28 July 2025 : https://leetcode.com/problems/trapping-rain-water/description/
