@@ -38,3 +38,4 @@ We do DSA Problems every weekday in the Team.Shiksha discord.
 25 July 2025 : https://leetcode.com/problems/evaluate-reverse-polish-notation/description/   
 28 July 2025 : https://leetcode.com/problems/trapping-rain-water/description/  
 29 July 2025 : https://leetcode.com/problems/generate-parentheses/description/  
+30 July 2025 : https://leetcode.com/problems/daily-temperatures/description/
