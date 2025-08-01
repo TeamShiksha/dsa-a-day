@@ -1,6 +1,6 @@
 # dsa-a-day
-We do DSA Problems every weekday in the Team.Shiksha discord.
-JUNE
+We do DSA Problems every weekday in the Team.Shiksha discord.            
+JUNE                  
 11 June 2025 : https://leetcode.com/problems/climbing-stairs/description/  
 12 June 2025 : https://leetcode.com/problems/valid-parentheses/description/  
 16 June 2025 : https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/  
