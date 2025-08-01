@@ -41,5 +41,5 @@ JULY
 31 July 2025: 1. https://leetcode.com/problems/car-fleet/description/  2. https://leetcode.com/problems/binary-search/description/     
 
 AUGUST    
-1 Aug 2025 : https://leetcode.com/problems/search-a-2d-matrix/description/
+1 Aug 2025 : https://leetcode.com/problems/search-a-2d-matrix/description/                        
 4 Aug 2025 : https://leetcode.com/problems/largest-rectangle-in-histogram/description/
