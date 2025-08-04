@@ -43,3 +43,4 @@ JULY
 AUGUST    
 1 Aug 2025 : https://leetcode.com/problems/search-a-2d-matrix/description/                        
 4 Aug 2025 : https://leetcode.com/problems/largest-rectangle-in-histogram/description/
+5 Aug 2025 https://leetcode.com/problems/koko-eating-bananas/description/
