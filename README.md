@@ -44,5 +44,7 @@ AUGUST
 1 Aug 2025 : https://leetcode.com/problems/search-a-2d-matrix/description/                        
 4 Aug 2025 : https://leetcode.com/problems/largest-rectangle-in-histogram/description/               
 5 Aug 2025 https://leetcode.com/problems/koko-eating-bananas/description/            
-6 Aug 2025 : https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
-7 Aug 2025 : https://leetcode.com/problems/time-based-key-value-store/description/
+6 Aug 2025 : https://leetcode.com/problems/find-minimum-in-rotated-sorted-array  
+7 Aug 2025 : https://leetcode.com/problems/search-in-rotated-sorted-array/                                 
+8 Aug 2025 : https://leetcode.com/problems/time-based-key-value-store/description/                        
+11 Aug 2025 : https://leetcode.com/problems/median-of-two-sorted-arrays/description/
