@@ -60,4 +60,7 @@ AUGUST
 26 Aug 2025 : https://leetcode.com/problems/add-two-numbers/description/                          
 27 Aug 2025 : https://leetcode.com/problems/linked-list-cycle-ii/                                 
 28 Aug 2025 : https://leetcode.com/problems/minimum-size-subarray-sum/description/                              
-29 Aug 2025 : https://leetcode.com/problems/lru-cache/description/                                         
+29 Aug 2025 : https://leetcode.com/problems/lru-cache/description/ 
+
+1 Sep 2025 : https://leetcode.com/problems/merge-k-sorted-lists/description/  
+2 Sep 2025 : https://leetcode.com/problems/invert-binary-tree/description/
