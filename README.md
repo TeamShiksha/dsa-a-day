@@ -63,4 +63,5 @@ AUGUST
 29 Aug 2025 : https://leetcode.com/problems/lru-cache/description/ 
 
 1 Sep 2025 : https://leetcode.com/problems/merge-k-sorted-lists/description/  
-2 Sep 2025 : https://leetcode.com/problems/invert-binary-tree/description/
+2 Sep 2025 : https://leetcode.com/problems/invert-binary-tree/description/  
+3 Sep 2025 : https://leetcode.com/problems/maximum-depth-of-binary-tree/  
