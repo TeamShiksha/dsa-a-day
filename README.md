@@ -65,3 +65,4 @@ AUGUST
 1 Sep 2025 : https://leetcode.com/problems/merge-k-sorted-lists/description/  
 2 Sep 2025 : https://leetcode.com/problems/invert-binary-tree/description/  
 3 Sep 2025 : https://leetcode.com/problems/maximum-depth-of-binary-tree/  
+4 Sep 2025 : 1. https://leetcode.com/problems/diameter-of-binary-tree/description/ 2. https://leetcode.com/problems/balanced-binary-tree/
