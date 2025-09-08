@@ -67,4 +67,5 @@ AUGUST
 3 Sep 2025 : https://leetcode.com/problems/maximum-depth-of-binary-tree/  
 4 Sep 2025 : 1. https://leetcode.com/problems/diameter-of-binary-tree/description/ 2. https://leetcode.com/problems/balanced-binary-tree/
 
-8 Sep 2025 : https://leetcode.com/problems/reverse-nodes-in-k-group/description/
+8 Sep 2025 : https://leetcode.com/problems/reverse-nodes-in-k-group/description/  
+9 Sep 2025 : 1. https://leetcode.com/problems/same-tree/description/ 2. https://leetcode.com/problems/subtree-of-another-tree/description/
