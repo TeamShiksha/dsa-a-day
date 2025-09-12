@@ -71,4 +71,6 @@ AUGUST
 9 Sep 2025 : 1. https://leetcode.com/problems/same-tree/description/ 2. https://leetcode.com/problems/subtree-of-another-tree/description/  
 10 Sep 2025 : https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/  
 11 Sep 2025 : https://leetcode.com/problems/binary-tree-level-order-traversal/description/  
-12 Sep 2025 : https://leetcode.com/problems/binary-tree-right-side-view/description/
+12 Sep 2025 : https://leetcode.com/problems/binary-tree-right-side-view/description/   
+15 Sep 2025 : 1. https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/
+2. https://leetcode.com/problems/validate-binary-search-tree/description/
