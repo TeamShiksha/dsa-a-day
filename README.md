@@ -75,4 +75,5 @@ AUGUST
 15 Sep 2025 : 1. https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/
 2. https://leetcode.com/problems/validate-binary-search-tree/description/  
 17 Sep 2025 : https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/  
-18 Sep 2025 : https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/
+18 Sep 2025 : https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/  
+19 Sep 2025 : https://leetcode.com/problems/binary-tree-maximum-path-sum/description/
