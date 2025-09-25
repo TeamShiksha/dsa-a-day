@@ -78,4 +78,5 @@ AUGUST
 18 Sep 2025 : https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/  
 19 Sep 2025 : https://leetcode.com/problems/binary-tree-maximum-path-sum/description/  
 23 Sep 2025 : https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/   
-24 Sep 2025 : https://leetcode.com/problems/implement-trie-prefix-tree/description/ 
+24 Sep 2025 : https://leetcode.com/problems/implement-trie-prefix-tree/description/  
+25 Sep 2025 : https://leetcode.com/problems/design-add-and-search-words-data-structure/description/
