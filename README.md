@@ -79,4 +79,7 @@ AUGUST
 19 Sep 2025 : https://leetcode.com/problems/binary-tree-maximum-path-sum/description/  
 23 Sep 2025 : https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/   
 24 Sep 2025 : https://leetcode.com/problems/implement-trie-prefix-tree/description/  
-25 Sep 2025 : https://leetcode.com/problems/design-add-and-search-words-data-structure/description/
+25 Sep 2025 : https://leetcode.com/problems/design-add-and-search-words-data-structure/description/  
+26 Sep 2025 : https://leetcode.com/problems/word-search-ii/description/    
+
+3 Oct 2025 : 1. https://leetcode.com/problems/range-sum-query-2d-immutable/description/ 2. https://leetcode.com/problems/design-hashmap/description/
