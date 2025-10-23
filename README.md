@@ -60,4 +60,26 @@ AUGUST
 26 Aug 2025 : https://leetcode.com/problems/add-two-numbers/description/                          
 27 Aug 2025 : https://leetcode.com/problems/linked-list-cycle-ii/                                 
 28 Aug 2025 : https://leetcode.com/problems/minimum-size-subarray-sum/description/                              
-29 Aug 2025 : https://leetcode.com/problems/lru-cache/description/                                         
+29 Aug 2025 : https://leetcode.com/problems/lru-cache/description/ 
+
+1 Sep 2025 : https://leetcode.com/problems/merge-k-sorted-lists/description/  
+2 Sep 2025 : https://leetcode.com/problems/invert-binary-tree/description/  
+3 Sep 2025 : https://leetcode.com/problems/maximum-depth-of-binary-tree/  
+4 Sep 2025 : 1. https://leetcode.com/problems/diameter-of-binary-tree/description/ 2. https://leetcode.com/problems/balanced-binary-tree/
+
+8 Sep 2025 : https://leetcode.com/problems/reverse-nodes-in-k-group/description/  
+9 Sep 2025 : 1. https://leetcode.com/problems/same-tree/description/ 2. https://leetcode.com/problems/subtree-of-another-tree/description/  
+10 Sep 2025 : https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/  
+11 Sep 2025 : https://leetcode.com/problems/binary-tree-level-order-traversal/description/  
+12 Sep 2025 : https://leetcode.com/problems/binary-tree-right-side-view/description/   
+15 Sep 2025 : 1. https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/
+2. https://leetcode.com/problems/validate-binary-search-tree/description/  
+17 Sep 2025 : https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/  
+18 Sep 2025 : https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/  
+19 Sep 2025 : https://leetcode.com/problems/binary-tree-maximum-path-sum/description/  
+23 Sep 2025 : https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/   
+24 Sep 2025 : https://leetcode.com/problems/implement-trie-prefix-tree/description/  
+25 Sep 2025 : https://leetcode.com/problems/design-add-and-search-words-data-structure/description/  
+26 Sep 2025 : https://leetcode.com/problems/word-search-ii/description/    
+
+3 Oct 2025 : 1. https://leetcode.com/problems/range-sum-query-2d-immutable/description/ 2. https://leetcode.com/problems/design-hashmap/description/
